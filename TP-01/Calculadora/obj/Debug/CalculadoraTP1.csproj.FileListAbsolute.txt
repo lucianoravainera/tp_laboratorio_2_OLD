@@ -1,0 +1,4 @@
+C:\Users\Lucho\Desktop\Ravainera.Luciano\Calculadora\bin\Debug\Calculadora.dll
+C:\Users\Lucho\Desktop\Ravainera.Luciano\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Lucho\Desktop\Ravainera.Luciano\Calculadora\obj\Debug\Calculadora.dll
+C:\Users\Lucho\Desktop\Ravainera.Luciano\Calculadora\obj\Debug\Calculadora.pdb
