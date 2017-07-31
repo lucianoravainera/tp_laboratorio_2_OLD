@@ -2,3 +2,8 @@ C:\Users\Lucho\Desktop\Ravainera.Luciano\Calculadora\bin\Debug\Calculadora.dll
 C:\Users\Lucho\Desktop\Ravainera.Luciano\Calculadora\bin\Debug\Calculadora.pdb
 C:\Users\Lucho\Desktop\Ravainera.Luciano\Calculadora\obj\Debug\Calculadora.dll
 C:\Users\Lucho\Desktop\Ravainera.Luciano\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Lucho\Desktop\TP-01\Calculadora\bin\Debug\Calculadora.dll
+C:\Users\Lucho\Desktop\TP-01\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Lucho\Desktop\TP-01\Calculadora\obj\Debug\CalculadoraTP1.csprojResolveAssemblyReference.cache
+C:\Users\Lucho\Desktop\TP-01\Calculadora\obj\Debug\Calculadora.dll
+C:\Users\Lucho\Desktop\TP-01\Calculadora\obj\Debug\Calculadora.pdb

@@ -9,3 +9,14 @@ C:\Users\Lucho\Desktop\Ravainera.Luciano\WindowsFormsTP1\obj\Debug\WindowsFormsT
 C:\Users\Lucho\Desktop\Ravainera.Luciano\WindowsFormsTP1\obj\Debug\WindowsFormsTP1.pdb
 C:\Users\Lucho\Desktop\Ravainera.Luciano\WindowsFormsTP1\bin\Debug\Calculadora.dll
 C:\Users\Lucho\Desktop\Ravainera.Luciano\WindowsFormsTP1\bin\Debug\Calculadora.pdb
+C:\Users\Lucho\Desktop\TP-01\WindowsFormsTP1\bin\Debug\WindowsFormsTP1.exe.config
+C:\Users\Lucho\Desktop\TP-01\WindowsFormsTP1\obj\Debug\WindowsFormsTP1.exe
+C:\Users\Lucho\Desktop\TP-01\WindowsFormsTP1\obj\Debug\WindowsFormsTP1.pdb
+C:\Users\Lucho\Desktop\TP-01\WindowsFormsTP1\bin\Debug\WindowsFormsTP1.exe
+C:\Users\Lucho\Desktop\TP-01\WindowsFormsTP1\bin\Debug\WindowsFormsTP1.pdb
+C:\Users\Lucho\Desktop\TP-01\WindowsFormsTP1\bin\Debug\Calculadora.dll
+C:\Users\Lucho\Desktop\TP-01\WindowsFormsTP1\bin\Debug\Calculadora.pdb
+C:\Users\Lucho\Desktop\TP-01\WindowsFormsTP1\obj\Debug\WindowsFormsTP1.csprojResolveAssemblyReference.cache
+C:\Users\Lucho\Desktop\TP-01\WindowsFormsTP1\obj\Debug\WindowsFormsTP1.Form1.resources
+C:\Users\Lucho\Desktop\TP-01\WindowsFormsTP1\obj\Debug\WindowsFormsTP1.Properties.Resources.resources
+C:\Users\Lucho\Desktop\TP-01\WindowsFormsTP1\obj\Debug\WindowsFormsTP1.csproj.GenerateResource.Cache
