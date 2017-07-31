@@ -1,0 +1,4 @@
+C:\Users\Lucho\Desktop\TP3\Ravainera.Luciano.2C.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Lucho\Desktop\TP3\Ravainera.Luciano.2C.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Lucho\Desktop\TP3\Ravainera.Luciano.2C.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Lucho\Desktop\TP3\Ravainera.Luciano.2C.TP3\Excepciones\obj\Debug\Excepciones.pdb

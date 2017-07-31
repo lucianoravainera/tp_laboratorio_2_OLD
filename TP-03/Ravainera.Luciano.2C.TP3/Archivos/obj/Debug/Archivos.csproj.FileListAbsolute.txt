@@ -1,0 +1,7 @@
+C:\Users\Lucho\Desktop\TP3\Ravainera.Luciano.2C.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Lucho\Desktop\TP3\Ravainera.Luciano.2C.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Lucho\Desktop\TP3\Ravainera.Luciano.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Lucho\Desktop\TP3\Ravainera.Luciano.2C.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Lucho\Desktop\TP3\Ravainera.Luciano.2C.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Lucho\Desktop\TP3\Ravainera.Luciano.2C.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Lucho\Desktop\TP3\Ravainera.Luciano.2C.TP3\Archivos\obj\Debug\Archivos.pdb

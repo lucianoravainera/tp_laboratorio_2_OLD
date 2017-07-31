@@ -1,0 +1,8 @@
+C:\Users\lucho\Desktop\programacion 2\TP3\Ravainera.Luciano.2C.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojResolveAssemblyReference.cache
+C:\Users\Lucho\Desktop\TP3\Ravainera.Luciano.2C.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojResolveAssemblyReference.cache
+C:\Users\Lucho\Desktop\TP3\Ravainera.Luciano.2C.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\Lucho\Desktop\TP3\Ravainera.Luciano.2C.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\Lucho\Desktop\TP3\Ravainera.Luciano.2C.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\Lucho\Desktop\TP3\Ravainera.Luciano.2C.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\Lucho\Desktop\TP3\Ravainera.Luciano.2C.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\Lucho\Desktop\TP3\Ravainera.Luciano.2C.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb

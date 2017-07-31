@@ -1,0 +1,11 @@
+C:\Users\Lucho\Desktop\TP3\Ravainera.Luciano.2C.TP3\Calses Instanciables\obj\Debug\Clases Instanciables.csprojResolveAssemblyReference.cache
+C:\Users\Lucho\Desktop\TP3\Ravainera.Luciano.2C.TP3\Calses Instanciables\bin\Debug\Calses Instanciables.dll
+C:\Users\Lucho\Desktop\TP3\Ravainera.Luciano.2C.TP3\Calses Instanciables\bin\Debug\Calses Instanciables.pdb
+C:\Users\Lucho\Desktop\TP3\Ravainera.Luciano.2C.TP3\Calses Instanciables\bin\Debug\Archivos.dll
+C:\Users\Lucho\Desktop\TP3\Ravainera.Luciano.2C.TP3\Calses Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\Lucho\Desktop\TP3\Ravainera.Luciano.2C.TP3\Calses Instanciables\bin\Debug\Excepciones.dll
+C:\Users\Lucho\Desktop\TP3\Ravainera.Luciano.2C.TP3\Calses Instanciables\bin\Debug\Archivos.pdb
+C:\Users\Lucho\Desktop\TP3\Ravainera.Luciano.2C.TP3\Calses Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\Lucho\Desktop\TP3\Ravainera.Luciano.2C.TP3\Calses Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\Lucho\Desktop\TP3\Ravainera.Luciano.2C.TP3\Calses Instanciables\obj\Debug\Calses Instanciables.dll
+C:\Users\Lucho\Desktop\TP3\Ravainera.Luciano.2C.TP3\Calses Instanciables\obj\Debug\Calses Instanciables.pdb

@@ -1,0 +1,15 @@
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_16_Library\obj\Debug\Clase_16_Library.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_16_Library\bin\Debug\Clase_16_Library.dll
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_16_Library\bin\Debug\Clase_16_Library.pdb
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_16_Library\obj\Debug\Clase_16_Library.dll
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_16_Library\obj\Debug\Clase_16_Library.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_16_Library\bin\Debug\Clase_16_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_16_Library\bin\Debug\Clase_16_Library.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_16_Library\obj\Debug\Clase_16_Library.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_16_Library\obj\Debug\Clase_16_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_16_Library\obj\Debug\Clase_16_Library.pdb
+C:\Users\Lucho\Desktop\TP3\2017-TP3-Archivos\Final_Clase_16\Clase_16_Library\bin\Debug\Clase_16_Library.dll
+C:\Users\Lucho\Desktop\TP3\2017-TP3-Archivos\Final_Clase_16\Clase_16_Library\bin\Debug\Clase_16_Library.pdb
+C:\Users\Lucho\Desktop\TP3\2017-TP3-Archivos\Final_Clase_16\Clase_16_Library\obj\Debug\Clase_16_Library.csprojResolveAssemblyReference.cache
+C:\Users\Lucho\Desktop\TP3\2017-TP3-Archivos\Final_Clase_16\Clase_16_Library\obj\Debug\Clase_16_Library.dll
+C:\Users\Lucho\Desktop\TP3\2017-TP3-Archivos\Final_Clase_16\Clase_16_Library\obj\Debug\Clase_16_Library.pdb
