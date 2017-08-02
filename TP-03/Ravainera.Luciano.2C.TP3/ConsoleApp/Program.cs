@@ -13,7 +13,7 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Universidad gim = new Universidad();
+           Universidad gim = new Universidad();
             Alumno a1 = new Alumno(1, "Juan", "Lopez", "12234456",
            Clases_Abstractas.Persona.ENacionalidad.Argentino, Universidad.EClases.Programacion,
            Alumno.EEstadoCuenta.Becado);
@@ -115,13 +115,20 @@ namespace ConsoleApp
                 int jornada = 0;
                 Jornada.Guardar(gim[jornada]);
                 Console.WriteLine("Archivo de Jornada {0} guardado.", jornada);
-                Console.WriteLine(Jornada.Leer());
+                //Console.WriteLine(Jornada.Leer());
             }
             catch (ArchivosException e)
             {
                 Console.WriteLine(e.Message);
             }
             Console.ReadKey();
+
+
+
+
+
+
+
         }
     }
 }

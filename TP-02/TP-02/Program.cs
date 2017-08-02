@@ -22,7 +22,7 @@ namespace TP_02
             Snacks a2 = new Snacks(Producto.EMarca.Arcor, "TYU426", ConsoleColor.DarkBlue);
             Snacks a3 = new Snacks(Producto.EMarca.Sancor, "IOP852", ConsoleColor.Green);
 
-            // Agrego 6 ítems (los últimos 2 no deberían poder agregarse) y muestro
+            // Agrego 6 ítems (los últimos 2 no deberían poder agregarse) y muestro OK
             changoDeCompras += c1;
             changoDeCompras += c2;
             changoDeCompras += m1;
@@ -36,7 +36,7 @@ namespace TP_02
             Console.ReadKey();
             Console.Clear();
 
-            // Quito un item y muestro
+            // Quito un item y muestro OK
             changoDeCompras -= c1;
 
             Console.WriteLine(changoDeCompras.ToString());
@@ -44,19 +44,19 @@ namespace TP_02
             Console.ReadKey();
             Console.Clear();
 
-            // Muestro solo Dulces
+            // Muestro solo Dulces OK
             Console.WriteLine(Changuito.Mostrar(changoDeCompras, Changuito.ETipo.Dulce));
             Console.WriteLine("<---------------------------------------------->");
             Console.ReadKey();
             Console.Clear();
 
-            // Muestro solo Leches
+            // Muestro solo Leches OK
             Console.WriteLine(Changuito.Mostrar(changoDeCompras, Changuito.ETipo.Leche));
             Console.WriteLine("<---------------------------------------------->");
             Console.ReadKey();
             Console.Clear();
 
-            // Muestro solo Snacks
+            // Muestro solo Snacks OK
             Console.WriteLine(Changuito.Mostrar(changoDeCompras, Changuito.ETipo.Snacks));
             Console.WriteLine("<---------------------------------------------->");
             Console.ReadKey();

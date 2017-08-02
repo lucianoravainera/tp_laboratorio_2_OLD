@@ -60,13 +60,22 @@ namespace Entidades_2017
                 switch (tipo)
                 {
                     case ETipo.Snacks:
-                        sb.AppendLine(v.Mostrar());
+                        if (v.GetType() == typeof(Snacks))
+                        {
+                            sb.AppendLine(v.Mostrar());
+                        }
                         break;
                     case ETipo.Dulce:
-                        sb.AppendLine(v.Mostrar());
+                        if (v.GetType() == typeof(Dulce))
+                        {
+                            sb.AppendLine(v.Mostrar());
+                        }
                         break;
                     case ETipo.Leche:
-                        sb.AppendLine(v.Mostrar());
+                        if (v.GetType() == typeof(Leche))
+                        {
+                            sb.AppendLine(v.Mostrar());
+                        }
                         break;
                     default:
                         sb.AppendLine(v.Mostrar());

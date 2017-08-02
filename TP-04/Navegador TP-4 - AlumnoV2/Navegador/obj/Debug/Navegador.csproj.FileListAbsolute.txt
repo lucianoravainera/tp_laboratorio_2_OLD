@@ -48,3 +48,6 @@ C:\Users\Lucho\Desktop\TP4\Navegador TP-4 - AlumnoV2\Navegador\obj\Debug\Navegad
 C:\Users\Lucho\Desktop\TP4\Navegador TP-4 - AlumnoV2\Navegador\obj\Debug\Navegador.csproj.GenerateResource.Cache
 C:\Users\Lucho\Desktop\TP4\Navegador TP-4 - AlumnoV2\Navegador\obj\Debug\Navegador.exe
 C:\Users\Lucho\Desktop\TP4\Navegador TP-4 - AlumnoV2\Navegador\obj\Debug\Navegador.pdb
+C:\Users\Lucho\Desktop\TP-04\Navegador TP-4 - AlumnoV2\Navegador\bin\Debug\Navegador.exe.config
+C:\Users\Lucho\Desktop\TP-04\Navegador TP-4 - AlumnoV2\Navegador\obj\Debug\Navegador.exe
+C:\Users\Lucho\Desktop\TP-04\Navegador TP-4 - AlumnoV2\Navegador\obj\Debug\Navegador.pdb
